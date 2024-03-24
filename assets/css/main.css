@@ -709,10 +709,12 @@ h6 {
 --------------------------------------------------------------*/
 
 .galleryvideos {
-  margin-top: 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  
+  margin: 30px 48px;
+}
+
+.gallery-small-videos {
+  display: flex;
+  gap: 16px;
 }
 
 .gallery {
@@ -1145,6 +1147,10 @@ h6 {
 }
 
 @media (max-width: 768px) {
+  .galleryvideos {
+    margin: 30px 0;
+  }
+
   .hero h2 {
     font-size: 32px;
   }
