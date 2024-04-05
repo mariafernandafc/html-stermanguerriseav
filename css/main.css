@@ -1,4 +1,4 @@
-/**
+/**F4EAE0
 * Template Name: PhotoFolio
 * Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
@@ -19,7 +19,7 @@
 
 /* Colors */
 :root {
-  --color-default: #fafafa;
+  --color-default: #F4EAE0;
   --color-primary: #2765a7;
   --color-secondary: #161718;
 }
@@ -91,7 +91,7 @@ h6 {
   font-size: 36px;
   font-weight: 700;
   font-family: var(--font-secondary);
-  color: #fff;
+  color: #F4DFC8;
 }
 
 /*--------------------------------------------------------------
@@ -106,7 +106,7 @@ h6 {
 .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #fff;
+  color: #F4DFC8;
   font-family: var(--font-secondary);
 }
 
@@ -117,7 +117,7 @@ h6 {
 }
 
 .page-header p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #F4DFC8;
 }
 
 .page-header .cta-btn {
@@ -130,7 +130,7 @@ h6 {
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: 0.3s;
-  color: #fff;
+  color: #F4DFC8;
   background: var(--color-primary);
 }
 
@@ -286,7 +286,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 30px 0;
-  background-color: #ffffff;
+  background-color: #F4DFC8;
 }
 
 .header .logo {
@@ -294,7 +294,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 60px;
   margin-right: 8px;
 }
 
@@ -302,7 +302,7 @@ h6 {
   font-size: 32px;
   margin: 0;
   font-weight: 400;
-  color: #fff;
+  color: #000000;
   font-family: var(--font-secondary);
 }
 
